@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19676
-Fork on GitHub5911
 <h1 align="center">Hi 👋, I'm Théo Duflos</h1>
 <h3 align="center">Passionate junior developer from France ! Ready to take on new challenges!</h3>
 
