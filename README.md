@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théo Duflos</h1>
 <h3 align="center">Passionate junior developer from France ! Ready to take on new challenges!</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot, Angular 16 Standalone**
+- 🌱 I’m currently learning **Java Spring Boot, Angular 17**
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
